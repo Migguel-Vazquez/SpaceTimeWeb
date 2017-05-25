@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SpaceTime
 
 You can use the [editor on GitHub](https://github.com/Migguel-Vazquez/SpaceTimeWeb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
