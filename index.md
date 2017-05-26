@@ -1,5 +1,5 @@
 ## SpaceTime
-
+https://migguel-vazquez.github.io/SpaceTimeWeb/ (este es el link de a pagina web)
 spaceTime es un divertido juego donde
 You can use the [editor on GitHub](https://github.com/Migguel-Vazquez/SpaceTimeWeb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
