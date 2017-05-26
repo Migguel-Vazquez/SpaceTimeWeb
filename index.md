@@ -17,17 +17,31 @@ El juego consiste en manejar una nave espacial y destruir la mayor cantidad de a
 
 *Alien:* Enemigo fuerte que solo es derrotado por un misil
 
+![GitHub Logo](Alien.png)
+
 *Asteroide:* Enemigo el cual podemos derrotar con balas peo cuidado son bastantes
+
+![GitHub Logo](Asteroide.png)
 
 *Cometa:* Este enemigo es inmortal si te atrapa se acaba el juego
 
+![GitHub Logo](Cometa.png)
+
 *PM:* Poder el cual nos permitira comenzar a desparar misiles
+
+![GitHub Logo](PM.png)
 
 *PR:* Este poder genera una linea de balas las cuales nos ayudaran a eliminar asteroides
 
+![GitHub Logo](PR.png)
+
 *Misil:* Muy util para eliminar aliens y asteroides
 
+![GitHub Logo](Misil.png)
+
 *Balas:* Arma principal.
+
+![GitHub Logo](Bala.png)
 
 
 ### Diagrama de clases
