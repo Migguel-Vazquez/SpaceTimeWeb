@@ -4,7 +4,7 @@
 
 ### Universidad Autónoma de San Luis Potosí, 2017
 
-### Objetivo del juego/aplicación
+### Objetivo del juego
 El objetivo del juego es durar el mayor tiempo posible en este tiempo en el espacio.
 
 ### Descripción del juego
