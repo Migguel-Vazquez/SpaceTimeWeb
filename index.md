@@ -46,6 +46,7 @@ El juego consiste en manejar una nave espacial y destruir la mayor cantidad de a
 
 ### Diagrama de clases
 
+![GitHub Logo](DiagramaClases.png)
 
 ### Autor(es)
 El autor(es) del proyecto son:
