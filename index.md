@@ -1,6 +1,8 @@
 ## SpaceTime
 https://migguel-vazquez.github.io/SpaceTimeWeb/ (este es el link de a pagina web)
 
+### Universidad Autónoma de San Luis Potosí, 2017
+
 ### Objetivo del juego/aplicación
 El objetivo del juego es durar el mayor tiempo posible en este tiempo en el espacio.
 
@@ -9,12 +11,25 @@ El juego consiste en manejar una nave espacial y destruir la mayor cantidad de a
 
 
 ### Objetos del juego 
+*Nave:* Controlada por el usuario, se considera el elemneto principal de juego
 
+*Alien:* Enemigo fuerte que solo es derrotado por un misil
 
+*Asteroide:* Enemigo el cual podemos derrotar con balas peo cuidado son bastantes
+
+*Cometa:* Este enemigo es inmortal si te atrapa se acaba el juego
+
+*PM:* Poder el cual nos permitira comenzar a desparar misiles
+
+*PR:* Este poder genera una linea de balas las cuales nos ayudaran a eliminar asteroides
+
+*Misil:* Muy util para eliminar aliens y asteroides
+
+*Balas:* Arma principal.
 
 
 ### Diagrama de clases
-![Diagrama de clases](url-del-diagrama.png)
+
 
 ### Autor(es)
 El autor(es) del proyecto son:
@@ -27,12 +42,7 @@ El autor(es) del proyecto son:
 ### Semestre
 - 2016-2017/II
 
-### Universidad Autónoma de San Luis Potosí, 2017
 
-
-
-spaceTime es un divertido juego donde
-
-[Video en :](https://youtu.be/tdGOhdu7CQg)
+[Video en demostración](https://youtu.be/tdGOhdu7CQg)
 
 
