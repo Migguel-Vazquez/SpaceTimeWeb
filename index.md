@@ -37,7 +37,7 @@ El juego consiste en manejar una nave espacial y destruir la mayor cantidad de a
 
 *Misil:* Muy util para eliminar aliens y asteroides
 
-![GitHub Logo](Misil.png)
+![GitHub Logo](Misil1.png)
 
 *Balas:* Arma principal.
 
