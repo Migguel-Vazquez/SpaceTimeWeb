@@ -35,6 +35,6 @@ spaceTime es un divertido juego donde
 
 Video en :
 
-[https://www.youtube.com/watch?v=tdGOhdu7CQg&feature=youtu.be](url)
+[https://youtu.be/tdGOhdu7CQg](url)
 
 
