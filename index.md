@@ -1,5 +1,5 @@
 ## SpaceTime
-https://migguel-vazquez.github.io/SpaceTimeWeb/ (este es el link de a pagina web)
+
 
 ### Universidad Autónoma de San Luis Potosí, 2017
 
