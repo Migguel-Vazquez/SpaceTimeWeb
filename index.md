@@ -33,8 +33,6 @@ El autor(es) del proyecto son:
 
 spaceTime es un divertido juego donde
 
-Video en :
-
-[https://youtu.be/tdGOhdu7CQg](url)
+[Video en :](https://youtu.be/tdGOhdu7CQg)
 
 
