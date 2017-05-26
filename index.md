@@ -1,5 +1,6 @@
 ## SpaceTime
 
+![GitHub Logo](titulo.png)
 
 ### Universidad Autónoma de San Luis Potosí, 2017
 
