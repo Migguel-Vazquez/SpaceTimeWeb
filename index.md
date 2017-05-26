@@ -43,6 +43,6 @@ El autor(es) del proyecto son:
 - 2016-2017/II
 
 
-[Video en demostración](https://youtu.be/tdGOhdu7CQg)
+[Video demostración](https://youtu.be/tdGOhdu7CQg)
 
 
