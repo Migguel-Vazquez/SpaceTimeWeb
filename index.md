@@ -12,7 +12,9 @@ El juego consiste en manejar una nave espacial y destruir la mayor cantidad de a
 
 ### Objetos del juego 
 *Nave:* Controlada por el usuario, se considera el elemneto principal de juego
+
 ![GitHub Logo](Nave.png)
+
 *Alien:* Enemigo fuerte que solo es derrotado por un misil
 
 *Asteroide:* Enemigo el cual podemos derrotar con balas peo cuidado son bastantes
